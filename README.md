@@ -1,4 +1,4 @@
-## Hi there 👋
+![](https://github.com/dykstrasophia/dykstrasophia/blob/main/happy-happy-happy.gif)
 
 <!--
 **dykstrasophia/dykstrasophia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
