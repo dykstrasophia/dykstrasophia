@@ -1,4 +1,4 @@
-<!--- ![](https://github.com/dykstrasophia/dykstrasophia/blob/main/happy-happy-happy.gif) -->
+![](https://github.com/dykstrasophia/dykstrasophia/blob/main/happy-happy-happy.gif)
 
 welcome to my github ٩(^ᗜ^ )و ´-
 
